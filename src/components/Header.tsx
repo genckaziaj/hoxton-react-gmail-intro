@@ -1,3 +1,5 @@
+import "../stylesheets/Header.css";
+
 function Header(): JSX.Element {
   return (
     <header className="header">

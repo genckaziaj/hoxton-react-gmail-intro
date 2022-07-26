@@ -1,3 +1,5 @@
+import "../stylesheets/Nav.css";
+
 function Nav(): JSX.Element {
   return (
     <nav className="left-menu">
